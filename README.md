@@ -1,6 +1,5 @@
-# akeno-aria
-# Docker for Torrent-Bot
-Docker for [Torrent](https://github.com/Ncode2014/MirrorX) Bot
+# Docker for aria2
+Docker for [aria2](https://github.com/Satriouz/Akeno-mirrorbot) Bot
 
 ## How to Use?
 ```
